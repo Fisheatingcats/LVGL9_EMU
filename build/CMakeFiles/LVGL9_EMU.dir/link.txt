@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\LVGL9_EMU.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\LVGL9_EMU.dir/objects.a @CMakeFiles\LVGL9_EMU.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--undefined=WinMain -Wl,--whole-archive CMakeFiles\LVGL9_EMU.dir/objects.a -Wl,--no-whole-archive -o D:\Documents\CLionProjects\LVGL9_EMU\bin\LVGL9_EMU.exe -Wl,--out-implib,D:\Documents\CLionProjects\LVGL9_EMU\bin\libLVGL9_EMU.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LVGL9_EMU.dir\linkLibs.rsp

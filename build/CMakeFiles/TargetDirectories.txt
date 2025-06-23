@@ -1,0 +1,17 @@
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/LVGL9_EMU.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/edit_cache.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/rebuild_cache.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/list_install_components.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/install.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/install/local.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/CMakeFiles/install/strip.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/lvgl.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/lvgl_thorvg.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/lvgl_examples.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/lvgl_demos.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/edit_cache.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/rebuild_cache.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/list_install_components.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/install.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/install/local.dir
+D:/Documents/CLionProjects/LVGL9_EMU/build/components/lvgl/CMakeFiles/install/strip.dir
